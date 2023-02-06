@@ -1,6 +1,6 @@
 # Ideas para el proyecto
 
-Las siguientes ideas que se van a presentar, son aplicaciones para el proyecto: 
+Las siguientes ideas que se van a presentar, son 3 aplicaciones para el proyecto: 
 
 **Idea 1:  CalBac**\
 CalBac es una aplicación que permite realizar cálculos matemáticos básicos. Esta aplicación es apropiada para cálculos matemáticos del diario vivir de una persona en común. 
